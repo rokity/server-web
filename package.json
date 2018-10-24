@@ -1,0 +1,12 @@
+{
+  "name": "server-web",
+  "version": "1.0.0",
+  "description": "it's a example for a presentation",
+  "main": "app.js",
+  "scripts": {
+   "start":"node app.js 0.0.0.0 80",
+   "dev":"node app.js 0.0.0.0 3306"
+  },
+  "author": "me",
+  "license": "MIT"
+}
